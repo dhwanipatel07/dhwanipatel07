@@ -1,16 +1,40 @@
-## Hi there 👋
+👋 Hi, I'm Dhwani Patel
 
-<!--
-**dhwanipatel07/dhwanipatel07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student
+🔐 Aspiring Cybersecurity Professional
+🤖 Interested in Artificial Intelligence & Computer Vision
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a BCA student interested in cybersecurity, artificial intelligence,
+computer vision and technology.
+
+Currently exploring:
+• C/C++
+• Linux
+• Cybersecurity
+• Artificial Intelligence
+• Git & GitHub
+
+## 🛠️ Skills
+
+ C++ | Linux | Git | GitHub | AI | Computer Vision
+
+## 📌 Featured Projects
+
+🔹 PixelPeel
+AI-Based Onion Quality Assessment & Grading
+
+🔹 RailSafe
+Autonomous Railway Track Health Monitoring System
+
+🔹 AI in Cybersecurity
+AI applications for cybersecurity and threat detection
+
+## 🎯 Currently Learning
+
+Cybersecurity • AI • Linux • Networking • GitHub
+
+## 🤝 Connect With Me
+
+LinkedIn: www.linkedin.com/in/dhwani-patel-32a168372
